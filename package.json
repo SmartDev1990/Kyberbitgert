@@ -8,7 +8,10 @@
   "files": [
     "dist"
   ],
-  "repository": "git@github.com:KyberNetwork/dmm-sdk-core.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SmartDev1990/Kyberbitgert.git"
+  },
   "keywords": [
     "kyberswap",
     "ethereum"
@@ -40,5 +43,10 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/SmartDev1990/Kyberbitgert/issues"
+  },
+  "homepage": "https://github.com/SmartDev1990/Kyberbitgert#readme",
+  "author": ""
 }
